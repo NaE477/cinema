@@ -58,5 +58,7 @@ public class PromoRepository {
         ResultSet resultSet = preparedStatement.executeQuery();
         resultSet.next();
         return resultSet.getDouble("amount");
+
+
     }
 }
