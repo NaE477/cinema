@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class AdminRepository {
-
+    //hassan mohseni
     conClass conClass = org.cinemaSystem.conClass.getInstance();
     Connection connection = conClass.getConnection();
 

@@ -14,7 +14,7 @@ import java.time.Month;
 import java.time.Year;
 
 public class Cinema extends User {
-
+// hassan mohseni
     String cinema_name;
     boolean confirmation;
     TicketService ticketService = new TicketService();
