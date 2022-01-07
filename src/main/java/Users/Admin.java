@@ -6,7 +6,7 @@ import Services.CinemaService;
 import java.sql.SQLException;
 
 public class Admin extends User {
-
+    // hassan mohseni
     public Admin() throws SQLException {
     }
 

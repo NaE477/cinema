@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../JdbcMaktab/src/JdbcMaktab.iml" filepath="$PROJECT_DIR$/../../JdbcMaktab/src/JdbcMaktab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../JdbcMaktab/src/main/main.iml" filepath="$PROJECT_DIR$/../../JdbcMaktab/src/main/main.iml" />
+      <module fileurl="file://$USER_HOME$/JdbcMaktab/src/JdbcMaktab.iml" filepath="$USER_HOME$/JdbcMaktab/src/JdbcMaktab.iml" />
+      <module fileurl="file://$USER_HOME$/JdbcMaktab/src/main/main.iml" filepath="$USER_HOME$/JdbcMaktab/src/main/main.iml" />
     </modules>
   </component>
 </project>
